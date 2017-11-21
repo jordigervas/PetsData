@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">PetsData</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Shared Preferences-->
+    <string name="insert_name">Insert Name</string>
+    <string name="insert_surname">Insert Surname</string>
+    <string name="insert_age">Insert Age</string>
+
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+</resources>
